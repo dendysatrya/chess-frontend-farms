@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.chessdefi.com/',
+        href: 'https://dev-farmswap-exchange.netlify.app/',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.chessdefi.com/#/pool',
+        href: 'https://dev-farmswap-exchannge.netlify.app/#/pool',
       },
     ],
   },
@@ -26,7 +26,7 @@ const config: MenuEntry[] = [
     href: '/farms',
   },
   {
-    label: 'Checkerboard ',
+    label: 'Nests',
     icon: 'CheckerboardIcon',
     href: '/nests',
   },
